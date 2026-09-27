@@ -1,4 +1,15 @@
-﻿# 🎓 دوره جامع مصاحبه شغلی فرانت‌اند — با جواب‌های کامل
+﻿<div dir="rtl">
+
+# 🎓 دوره جامع مصاحبه شغلی فرانت‌اند — با جواب‌های کامل
+
+<div align="center">
+
+[![AI Generated](https://img.shields.io/badge/Generated%20by-GLM--5.3--Flash-blue?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Language](https://img.shields.io/badge/Language-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-success?style=for-the-badge)](#)
+[![Format](https://img.shields.io/badge/Format-PDF%20%2B%20Markdown-orange?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](#)
+
+</div>
 
 > **موضوع:** مصاحبه استخدامی برای برنامه‌نویسان — مخصوص فرانت‌کارهای **React / Next.js**
 > **مخاطب:** از اولین مصاحبه عمرت تا جویای کاری که مدت‌هاست مصاحبه می‌دهد و هنوز استرس دارد
@@ -98,3 +109,5 @@
 ## 📥 دانلود مستقیم نسخه چاپی و PDF کتاب
 
 برای دسترسی و دانلود مستقیم فایل PDF کامل این دوره آموزشی، به بخش **[Releases](../../releases)** همین ریپازیتوری مراجعه کنید یا فایل PDF قرار داده شده در ریشه مخزن را دریافت نمایید.
+
+</div>
